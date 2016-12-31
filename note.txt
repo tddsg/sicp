@@ -1,0 +1,9 @@
+
+BOOKS:
+
+   MIT BOOK: https://mitpress.mit.edu/sicp/full-text/book/book.html
+
+
+VIDEO LECTURES:
+
+   MIT OCW: https://archive.org/details/mit_ocw_sicp
